@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340819512902",
+    "project_id": "ramro-16c4b",
+    "storage_bucket": "ramro-16c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340819512902:android:b60a0fc2b4ad16189b8447",
+        "android_client_info": {
+          "package_name": "com.codewithrisesh.ramro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340819512902-cunsdogoisn4somj6fnv9dgp6r8stpui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTW2myN0sMQjQI3Fie67aMjh9jDyyPacI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340819512902-cunsdogoisn4somj6fnv9dgp6r8stpui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="values.splash." parent="Theme.AppCompat.DayNight.NoActionBar">
+<!--    <item name="android:windowSplashScreenBackground">@color/blue</item>-->
+<!--        <item name="android:windowNoTitle">true</item>-->
+        <item name="android:windowDisablePreview">true</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/colorPurple</item>
+<!--        <item name="android:windowBackground">@color/white</item>-->
+<!--        <item name="android:windowIsTranslucent">true</item>-->
+    </style>
+</resources>
